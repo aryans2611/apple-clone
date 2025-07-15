@@ -19,7 +19,5 @@ It is created for learning and practicing frontend development.
 
 ## Live Demo
 
-[Visit Live Website](https://aryans2611.github.io/apple-clone)  
-(Replace this link after deploying)
-
+[Visit Live Website](https://t1w67vkp-5500.inc1.devtunnels.ms/) 
 
